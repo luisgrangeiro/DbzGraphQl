@@ -1,0 +1,10 @@
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\obj\Debug\DbzGraphQl.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\bin\Debug\DbzGraphQl.dll
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\bin\Debug\DbzGraphQl.pdb
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\bin\Debug\GraphQL-Parser.dll
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\bin\Debug\GraphQL.dll
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\obj\Debug\DbzGraphQl.dll
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\obj\Debug\DbzGraphQl.pdb
+C:\Users\luisc\source\repos\DbzGraphQl\DbzGraphQl\obj\Debug\DbzGraphQl.csprojResolveAssemblyReference.cache
